@@ -1,2 +1,2 @@
-# Videscaper
+# Vidscaper
 E-commerce website
